@@ -16,7 +16,7 @@ A empresa lançará os desafios e nós teremos que desenvolver soluções para o
 
 :busts_in_silhouette: **Squad**
 
-Guilherme Régis [](https://github.com/gprcarvalho)
+Guilherme Régis https://github.com/gprcarvalho
 
 Maria Gabriella https://github.com/MGabriellaS
 
