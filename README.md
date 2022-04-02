@@ -20,15 +20,15 @@ Guilherme Régis https://github.com/gprcarvalho
 
 Maria Gabriella https://github.com/MGabriellaS
 
-Mateus Rodrigues
+Mateus Rodrigues https://github.com/mateusrdn
 
-José Ricardo
+José Ricardo https://github.com/J-Ric10
 
-Artur Lima
+Artur Lima https://github.com/ArturLima77
 
-Marcelo Cláudio
+Marcelo Cláudio https://github.com/MarceloClaudio
 
-Gabriel Ribeiro
+Gabriel Ribeiro https://github.com/Gabriel5291
 
-Gustavo César
+Gustavo César 
 
