@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="App1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="White" HorizontalAlignment="Stretch">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button Style="{StaticResource AccentButtonStyle}" Content="Pagina Inicial" Margin="-500,26,0,0" Grid.Row="1" VerticalAlignment="Top" Width="145" Padding="8,4,7,5" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" HorizontalAlignment="Center" />
+        <Button Style="{StaticResource AccentButtonStyle}" Content="Cadastrar Pokémon" Margin="-100,26,0,0" Grid.Row="1" VerticalAlignment="Top" Width="145" Click="Button_Click" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Padding="8,4,8,5" />
+        <Button Style="{StaticResource AccentButtonStyle}" Content="Procurar Pokémons" Margin="300,26,0,0" Grid.Row="1" VerticalAlignment="Top" Width="140" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Padding="8,4,8,5" />
+        <Button Style="{StaticResource AccentButtonStyle}" Content="Informação" Margin="700,26,0,0" Grid.Row="1" VerticalAlignment="Top" Width="145" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Padding="8,4,8,5" />
+        <Border BorderThickness="3" BorderBrush="Black" Background="#FFFFFFFF" Margin="444,265,0,0" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <TextBlock FontSize="72" Foreground="Black" HorizontalAlignment="Center" Width="437" TextAlignment="Center" FontFamily="Comic Sans MS" SelectionChanged="TextBlock_SelectionChanged" VerticalAlignment="Center" ><Run Text="P"/><Run Text=" "/><Run Text=" "/><Run Text=" kécheck"/></TextBlock>
+        </Border>
+        <Image Source="/pokeball.png" Margin="519,295,0,0" Height="59" VerticalAlignment="Top" Grid.RowSpan="2" HorizontalAlignment="Left" Width="75" />
+
+    </Grid>
+
+</Page>
