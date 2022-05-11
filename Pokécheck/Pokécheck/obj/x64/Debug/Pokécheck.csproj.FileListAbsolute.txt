@@ -1,0 +1,50 @@
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.csproj.AssemblyReference.cache
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\App.g.i.cs
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\App.g.cs
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\MainPage.g.cs
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\App.xaml
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\MainPage.xaml
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\App.xbf
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\MainPage.xbf
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.csproj.CoreCompileInputs.cache
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\bin\x64\Debug\App.xbf
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\bin\x64\Debug\MainPage.xbf
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\bin\x64\Debug\Pokécheck.xr.xml
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\bin\x64\Debug\Pokécheck.exe
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\bin\x64\Debug\Pokécheck.pdb
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\bin\x64\Debug\resources.pri
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\bin\x64\Debug\AppxManifest.xml
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\bin\x64\Debug\Core\Pokécheck.exe
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\bin\x64\Debug\Pokécheck.build.appxrecipe
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\bin\x64\Debug\System.Runtime.dll
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.csproj.CopyComplete
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.exe
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.pdb
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\priconfig.xml
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\resources.resfiles
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\pri.resfiles
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\qualifiers.txt
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424923200000000.json
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\bin\x64\Debug\Procurar Pokémons.xbf
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.g.i.cs
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.g.cs
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.xaml
+C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.xbf
