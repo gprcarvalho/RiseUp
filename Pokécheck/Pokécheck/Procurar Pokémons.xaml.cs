@@ -65,5 +65,10 @@ namespace Pokécheck
         {
 
         }
+
+        private void ComboBoxMenu_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }

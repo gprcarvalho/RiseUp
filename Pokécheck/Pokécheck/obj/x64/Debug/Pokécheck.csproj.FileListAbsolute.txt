@@ -48,3 +48,103 @@ C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémo
 C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.g.cs
 C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.xaml
 C:\Users\thehe\source\repos\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.xbf
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\bin\x64\Debug\App.xbf
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\bin\x64\Debug\MainPage.xbf
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\bin\x64\Debug\Procurar Pokémons.xbf
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\bin\x64\Debug\Pokécheck.xr.xml
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\bin\x64\Debug\Pokécheck.exe
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\bin\x64\Debug\Pokécheck.pdb
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\bin\x64\Debug\resources.pri
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\bin\x64\Debug\AppxManifest.xml
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\bin\x64\Debug\Core\Pokécheck.exe
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\bin\x64\Debug\Pokécheck.build.appxrecipe
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\bin\x64\Debug\System.Runtime.dll
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.csproj.AssemblyReference.cache
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\App.g.i.cs
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\App.g.cs
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\MainPage.g.cs
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.g.i.cs
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.g.cs
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\App.xaml
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\MainPage.xaml
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.xaml
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\App.xbf
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\MainPage.xbf
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.xbf
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.csproj.CopyComplete
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.exe
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.pdb
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\priconfig.xml
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\resources.resfiles
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\pri.resfiles
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\qualifiers.txt
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Gabi\Documents\GitHub\RiseUP\Pokécheck\Pokécheck\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424923200000000.json
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\bin\x64\Debug\App.xbf
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\bin\x64\Debug\MainPage.xbf
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\bin\x64\Debug\Procurar Pokémons.xbf
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\bin\x64\Debug\Pokécheck.xr.xml
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\bin\x64\Debug\Pokécheck.exe
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\bin\x64\Debug\Pokécheck.pdb
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\bin\x64\Debug\resources.pri
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\bin\x64\Debug\AppxManifest.xml
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\bin\x64\Debug\Core\Pokécheck.exe
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\bin\x64\Debug\Pokécheck.build.appxrecipe
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\bin\x64\Debug\System.Runtime.dll
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\App.g.i.cs
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\App.g.cs
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\MainPage.g.cs
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.g.i.cs
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.g.cs
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\App.xaml
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\MainPage.xaml
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.xaml
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\App.xbf
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\MainPage.xbf
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.xbf
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.csproj.CopyComplete
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.exe
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.pdb
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\priconfig.xml
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\resources.resfiles
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\pri.resfiles
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\qualifiers.txt
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424923200000000.json
