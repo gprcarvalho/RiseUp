@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-05-12T02:12:42.541</Modified>
+      <Modified>2022-05-12T20:59:39.828</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Pokécheck.exe">
       <PackagePath>entrypoint\Pokécheck.exe</PackagePath>
-      <Modified>2022-05-12T02:12:41.106</Modified>
+      <Modified>2022-05-12T20:59:37.837</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -114,27 +114,27 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Pokécheck.xr.xml">
       <PackagePath>Pokécheck.xr.xml</PackagePath>
-      <Modified>2022-05-12T02:12:40.874</Modified>
+      <Modified>2022-05-12T20:59:37.593</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-05-12T02:12:40.913</Modified>
+      <Modified>2022-05-12T20:59:37.661</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Cadastrar Pokémons.xbf">
       <PackagePath>Cadastrar Pokémons.xbf</PackagePath>
-      <Modified>2022-05-12T02:12:40.894</Modified>
+      <Modified>2022-05-12T20:59:37.642</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Informações.xbf">
       <PackagePath>Informações.xbf</PackagePath>
-      <Modified>2022-05-12T02:12:40.913</Modified>
+      <Modified>2022-05-12T20:59:37.661</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-05-12T02:12:40.914</Modified>
+      <Modified>2022-05-12T20:59:37.662</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Procurar Pokémons.xbf">
       <PackagePath>Procurar Pokémons.xbf</PackagePath>
-      <Modified>2022-05-12T02:12:40.912</Modified>
+      <Modified>2022-05-12T20:59:37.660</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -146,7 +146,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Core\Pokécheck.exe">
       <PackagePath>Pokécheck.exe</PackagePath>
-      <Modified>2022-05-12T02:12:42.526</Modified>
+      <Modified>2022-05-12T20:59:39.802</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
