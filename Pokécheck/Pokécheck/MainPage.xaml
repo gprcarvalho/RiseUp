@@ -8,10 +8,10 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
     <Grid Background="#FF290853">
-        <Rectangle RadiusX="8" RadiusY="8" RenderTransformOrigin="0.5,0.5" StrokeThickness="8" Margin="385,415,324,380">
+        <Rectangle HorizontalAlignment="Center" Height="205" VerticalAlignment="Center" Width="791" RadiusX="8" RadiusY="8" RenderTransformOrigin="0.5,0.5" StrokeThickness="8" FocusVisualPrimaryBrush="White" Margin="70,34,0,0">
             <Rectangle.Stroke>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                    <GradientStop Color="#FF7D60BF"  Offset="0.067"/>
+                    <GradientStop Color="#FF7D60BF" Offset="0.067"/>
                     <GradientStop Color="#FFBD98EF" Offset="0.912"/>
                     <GradientStop Color="#FF702DC1" Offset="0.47"/>
                 </LinearGradientBrush>
@@ -58,7 +58,7 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Button Style="{StaticResource AccentButtonStyle}" Content="Informação" Width="145" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" Padding="10,4,8,5" Click="Button_Click_2" FlowDirection="LeftToRight" Margin="995,18,145,0" FocusVisualPrimaryBrush="#FF4C4A48" Visibility="Visible" FocusVisualSecondaryBrush="#99000000" Foreground="White" RequestedTheme="Default" HorizontalAlignment="Center" VerticalAlignment="Top" BorderThickness="1" BorderBrush="Black" CornerRadius="8">
+        <Button Style="{StaticResource AccentButtonStyle}" Content="Informações" Width="145" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" Padding="10,4,8,5" Click="Button_Click_2" FlowDirection="LeftToRight" Margin="995,18,145,0" FocusVisualPrimaryBrush="#FF4C4A48" Visibility="Visible" FocusVisualSecondaryBrush="#99000000" Foreground="White" RequestedTheme="Default" HorizontalAlignment="Center" VerticalAlignment="Top" BorderThickness="1" BorderBrush="Black" CornerRadius="8">
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#D8C8EE"  Offset="0.067"/>
@@ -67,22 +67,22 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Image Source="Assets/logo.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Margin="410,0,343,382" Height="192" VerticalAlignment="Bottom">
+        <Image Source="Assets/logo.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Height="192" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,42,-67,0">
             <Image.RenderTransform>
                 <CompositeTransform Rotation="-1.004"/>
             </Image.RenderTransform>
         </Image>
-        <Image Source="Assets/018.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" HorizontalAlignment="Left" VerticalAlignment="Top" Width="330" Height="314" Margin="1059,347,0,0" >
+        <Image Source="Assets/018.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" HorizontalAlignment="Center" VerticalAlignment="Center" Width="330" Height="314" Margin="900,0,0,0" >
             <Image.RenderTransform>
                 <CompositeTransform Rotation="8.693"/>
             </Image.RenderTransform>
         </Image>
-        <Image Source="Assets/025.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" HorizontalAlignment="Left" VerticalAlignment="Top" Width="279" Height="293" Margin="172,348,0,0" >
+        <Image Source="Assets/025.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" HorizontalAlignment="Center" VerticalAlignment="Center" Width="330" Height="314" Margin="0,0,900,0" >
             <Image.RenderTransform>
                 <CompositeTransform Rotation="-11.327"/>
             </Image.RenderTransform>
         </Image>
-        <Image Source="Assets/pokeball.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" HorizontalAlignment="Left" VerticalAlignment="Top" Height="113" Width="94" Margin="488,479,0,0" Opacity="0.905" >
+        <Image Source="Assets/pokeball.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" HorizontalAlignment="Center" VerticalAlignment="Center" Height="113" Width="94" Opacity="0.905" Margin="0,70,433,0" >
             <Image.RenderTransform>
                 <CompositeTransform Rotation="-8.412"/>
             </Image.RenderTransform>

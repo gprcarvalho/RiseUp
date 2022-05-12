@@ -1,1 +1,1 @@
-C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\Pokécheck.csproj;x64
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\Pokécheck.csproj;x64
