@@ -100,8 +100,6 @@
       <RootProperty Name="SkewX" />
       <RootProperty Name="TranslateX" />
       <RootProperty Name="Rotation" />
-      <RootProperty Name="SkewY" />
-      <RootProperty Name="TranslateY" />
     </RootType>
     <RootType FullName="Pokécheck.Cadastrar_Pokémons" />
     <RootType FullName="Windows.UI.Xaml.Controls.Image">
@@ -115,8 +113,6 @@
       <RootProperty Name="RenderTransform" />
       <RootProperty Name="Width" />
       <RootProperty Name="Opacity" />
-      <RootProperty Name="FocusVisualPrimaryBrush" />
-      <RootProperty Name="Visibility" />
     </RootType>
     <RootType FullName="Pokécheck.Informação" />
     <RootType FullName="Windows.UI.Xaml.Media.LinearGradientBrush">

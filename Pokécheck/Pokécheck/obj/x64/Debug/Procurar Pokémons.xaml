@@ -21,13 +21,8 @@
                 <CompositeTransform SkewX="0" TranslateX="0"/>
             </Rectangle.RenderTransform>
         </Rectangle>
-        <Image Source="Assets/143.png" FocusVisualPrimaryBrush="White" Visibility="Visible" VerticalAlignment="Center" HorizontalAlignment="Center" Height="858" Width="858" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Margin="0,147,0,0" >
-            <Image.RenderTransform>
-                <CompositeTransform SkewY="-0.182" TranslateY="-0.997"/>
-            </Image.RenderTransform>
-        </Image>
         <TextBlock x:ConnectionId='2' TextWrapping="Wrap" FocusVisualPrimaryBrush="White" Foreground="White" Text="Procurar Pokémons" FontSize="60" FontFamily="Comic Sans MS"                                               FontWeight="Normal" FocusVisualSecondaryBrush="#FFA293C5" HorizontalAlignment="Center" VerticalAlignment="Center" Height="106" Width="531" TextAlignment="Center" Margin="0,0,0,600"/>
-        <ComboBox x:ConnectionId='3' x:Name="ComboBoxMenu" PlaceholderText="Pesquisar Pokémon" Width="199" CornerRadius="10" SelectedIndex="{Binding IndexComboBox, Mode=TwoWay}" BorderBrush="#FF070707" Visibility="Visible"                                                  VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,400,0,0">
+        <ComboBox x:ConnectionId='3' x:Name="ComboBoxMenu" PlaceholderText="Pesquisar Pokémon" Width="199" CornerRadius="10" SelectedIndex="{Binding IndexComboBox, Mode=TwoWay}" BorderBrush="#FF070707" Visibility="Visible"                                                  VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,0,0,179">
             <ComboBox.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FF7D60BF"  Offset="0.067"/>
@@ -40,17 +35,17 @@
             <ComboBoxItem Content="Pesquisa por ID "/>
             <ComboBoxItem Content="Seus Pokémons"/>
         </ComboBox>
-        <TextBox TextWrapping="Wrap" PlaceholderText="Pesquisar..." RenderTransformOrigin="0.683,0.333" BorderBrush="#66000000" CornerRadius="8 " FocusVisualSecondaryBrush="#998564E2" UseLayoutRounding="False" d:LayoutRounding="Auto" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Width="363" Margin="0,255,58,0">
+        <TextBox TextWrapping="Wrap" PlaceholderText="Pesquisar..." RenderTransformOrigin="0.683,0.333" BorderBrush="#66000000" CornerRadius="8 " FocusVisualSecondaryBrush="#998564E2" UseLayoutRounding="False" d:LayoutRounding="Auto" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Width="363" Margin="0,0,58,300">
             <TextBox.RenderTransform>
                 <CompositeTransform SkewX="-3.576" TranslateX="1.251"/>
             </TextBox.RenderTransform>
         </TextBox>
-        <Rectangle HorizontalAlignment="Center" Height="72" VerticalAlignment="Top" Width="1047" RadiusX="8" RadiusY="8" RenderTransformOrigin="0.5,0.5" Stroke="#FF8674BF" StrokeThickness="8" Margin="0,-3,0,0">
+        <Rectangle HorizontalAlignment="Center" Height="72" VerticalAlignment="Top" Width="900" RadiusX="8" RadiusY="8" RenderTransformOrigin="0.5,0.5" Stroke="#FF8674BF" StrokeThickness="8" Margin="0,-3,0,0">
             <Rectangle.RenderTransform>
                 <CompositeTransform SkewX="0" TranslateX="0"/>
             </Rectangle.RenderTransform>
         </Rectangle>
-        <Button x:ConnectionId='4' Style="{StaticResource AccentButtonStyle}" Content="Cadastrar Pokémons" Width="142" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" Padding="10,4,8,5"                        FlowDirection="LeftToRight" Margin="762,18,373,0" HorizontalAlignment="Center" RequestedTheme="Default" FontSize="13" Height="32" VerticalAlignment="Top" BorderThickness="1" BorderBrush="Black" Foreground="White" CornerRadius="8">
+        <Button x:ConnectionId='4' Style="{StaticResource AccentButtonStyle}" Content="Cadastrar Pokémons" Width="142" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" Padding="10,4,8,5"                        FlowDirection="LeftToRight" Margin="630,18,400,0" HorizontalAlignment="Center" RequestedTheme="Default" FontSize="13" Height="32" VerticalAlignment="Top" BorderThickness="1" BorderBrush="Black" Foreground="White" CornerRadius="8">
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#D8C8EE"  Offset="0.067"/>
@@ -59,7 +54,7 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Button x:ConnectionId='5' Style="{StaticResource AccentButtonStyle}" Content="Procurar Pokémon"                      VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Padding="10,4,8,5" FlowDirection="LeftToRight" Margin="373,18,762,0" RequestedTheme="Default" Width="145" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="White" BorderThickness="1" BorderBrush="Black" CornerRadius="8">
+        <Button x:ConnectionId='5' Style="{StaticResource AccentButtonStyle}" Content="Procurar Pokémon"                      VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Padding="10,4,8,5" FlowDirection="LeftToRight" Margin="400,18,630,0" RequestedTheme="Default" Width="145" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="White" BorderThickness="1" BorderBrush="Black" CornerRadius="8">
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#D8C8EE"  Offset="0.067"/>
@@ -68,7 +63,7 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Button x:ConnectionId='6' Style="{StaticResource AccentButtonStyle}" Content="Pagina Inicial" Width="145" Padding="10,4,7,5" VerticalContentAlignment="Top" HorizontalContentAlignment="Center"                        HorizontalAlignment="Center" FlowDirection="LeftToRight" Margin="145,18,995,0" VerticalAlignment="Top" RequestedTheme="Default" Foreground="White" BorderThickness="1" BorderBrush="Black" CornerRadius="8">
+        <Button x:ConnectionId='6' Style="{StaticResource AccentButtonStyle}" Content="Pagina Inicial" Width="145" Padding="10,4,7,5" VerticalContentAlignment="Top" HorizontalContentAlignment="Center"                        HorizontalAlignment="Center" FlowDirection="LeftToRight" Margin="380,18,995,0" VerticalAlignment="Top" RequestedTheme="Default" Foreground="White" BorderThickness="1" BorderBrush="Black" CornerRadius="8">
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#D8C8EE"  Offset="0.067"/>
@@ -77,7 +72,7 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Button x:ConnectionId='7' Style="{StaticResource AccentButtonStyle}" Content="Informações" Width="145" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" Padding="10,4,8,5"                        FlowDirection="LeftToRight" Margin="995,18,145,0" FocusVisualPrimaryBrush="#FF4C4A48" Visibility="Visible" FocusVisualSecondaryBrush="#99000000" Foreground="White" RequestedTheme="Default" HorizontalAlignment="Center" VerticalAlignment="Top" BorderThickness="1" BorderBrush="Black" CornerRadius="8">
+        <Button x:ConnectionId='7' Style="{StaticResource AccentButtonStyle}" Content="Informações" Width="145" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" Padding="10,4,8,5"                        FlowDirection="LeftToRight" Margin="995,18,380,0" FocusVisualPrimaryBrush="#FF4C4A48" Visibility="Visible" FocusVisualSecondaryBrush="#99000000" Foreground="White" RequestedTheme="Default" HorizontalAlignment="Center" VerticalAlignment="Top" BorderThickness="1" BorderBrush="Black" CornerRadius="8">
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#D8C8EE"  Offset="0.067"/>
@@ -86,7 +81,7 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Button x:ConnectionId='8'                                               FocusVisualSecondaryBrush="#00000000" RequestedTheme="Default" Visibility="Visible" RenderTransformOrigin="0.39,-1.88" Width="27" Height="38" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="366,255,0,0">
+        <Button x:ConnectionId='8'                                               FocusVisualSecondaryBrush="#00000000" RequestedTheme="Default" Visibility="Visible" RenderTransformOrigin="0.39,-1.88" Width="27" Height="38" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="366,0,0,300">
             <Button.Background>
                 <ImageBrush ImageSource="Assets/icons8-pesquisar-50.png" Stretch="Uniform"/>
             </Button.Background>
@@ -97,7 +92,7 @@
                 <ImageBrush Stretch="UniformToFill" ImageSource="Assets/icons8-pesquisar-50.png"/>
             </Button.FocusVisualPrimaryBrush>
         </Button>
-        <Rectangle HorizontalAlignment="Center" Height="43" VerticalAlignment="Center" Width="48" RadiusX="8" RadiusY="8" RenderTransformOrigin="0.5,0.5" StrokeThickness="8" FocusVisualPrimaryBrush="White" Margin="366,255,0,0">
+        <Rectangle HorizontalAlignment="Center" Height="43" VerticalAlignment="Center" Width="48" RadiusX="8" RadiusY="8" RenderTransformOrigin="0.5,0.5" StrokeThickness="8" FocusVisualPrimaryBrush="White" Margin="366,0,0,300">
             <Rectangle.Stroke>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FF7D60BF" Offset="0.067"/>

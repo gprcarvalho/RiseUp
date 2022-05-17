@@ -120,10 +120,18 @@
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
     <Compile Include="Cadastrar Pokémons.xaml.cs" />
+    <Compile Include="ControllerAPI\PokeCheckAPI.cs" />
     <Compile Include="Informações.xaml.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Model\Ability.cs" />
+    <Compile Include="Model\Abilitys.cs" />
+    <Compile Include="Model\Pokemon.cs" />
+    <Compile Include="Model\Result.cs" />
+    <Compile Include="Model\ResultList.cs" />
+    <Compile Include="Model\Type.cs" />
+    <Compile Include="Model\Types.cs" />
     <Compile Include="Procurar Pokémons.xaml.cs">
       <DependentUpon>Procurar Pokémons.xaml</DependentUpon>
     </Compile>
@@ -177,7 +185,11 @@
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
       <Version>6.2.12</Version>
     </PackageReference>
+    <PackageReference Include="Newtonsoft.Json">
+      <Version>13.0.1</Version>
+    </PackageReference>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>
