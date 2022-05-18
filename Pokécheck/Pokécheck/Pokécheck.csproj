@@ -119,10 +119,10 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Cadastrar Pokémons.xaml.cs" />
+    <Compile Include="Views\Cadastrar Pokémons.xaml.cs" />
     <Compile Include="ControllerAPI\PokeCheckAPI.cs" />
-    <Compile Include="Informações.xaml.cs" />
-    <Compile Include="MainPage.xaml.cs">
+    <Compile Include="Views\Informações.xaml.cs" />
+    <Compile Include="Views\MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Model\Ability.cs" />
@@ -132,7 +132,7 @@
     <Compile Include="Model\ResultList.cs" />
     <Compile Include="Model\Type.cs" />
     <Compile Include="Model\Types.cs" />
-    <Compile Include="Procurar Pokémons.xaml.cs">
+    <Compile Include="Views\Procurar Pokémons.xaml.cs">
       <DependentUpon>Procurar Pokémons.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -164,19 +164,19 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="Cadastrar Pokémons.xaml">
+    <Page Include="Views\Cadastrar Pokémons.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="Informações.xaml">
+    <Page Include="Views\Informações.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="MainPage.xaml">
+    <Page Include="Views\MainPage.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="Procurar Pokémons.xaml">
+    <Page Include="Views\Procurar Pokémons.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
