@@ -1,27 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\workspace\\RiseUp\\Pokécheck\\Pokécheck\\Pokécheck.csproj": {}
+    "C:\\Users\\thehe\\OneDrive\\Área de Trabalho\\Pokécheck\\Pokécheck\\Pokécheck.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\workspace\\RiseUp\\Pokécheck\\Pokécheck\\Pokécheck.csproj": {
+    "C:\\Users\\thehe\\OneDrive\\Área de Trabalho\\Pokécheck\\Pokécheck\\Pokécheck.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\workspace\\RiseUp\\Pokécheck\\Pokécheck\\Pokécheck.csproj",
+        "projectUniqueName": "C:\\Users\\thehe\\OneDrive\\Área de Trabalho\\Pokécheck\\Pokécheck\\Pokécheck.csproj",
         "projectName": "Pokécheck",
-        "projectPath": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\workspace\\RiseUp\\Pokécheck\\Pokécheck\\Pokécheck.csproj",
-        "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateu\\OneDrive\\Área de Trabalho\\workspace\\RiseUp\\Pokécheck\\Pokécheck\\obj\\",
+        "projectPath": "C:\\Users\\thehe\\OneDrive\\Área de Trabalho\\Pokécheck\\Pokécheck\\Pokécheck.csproj",
+        "packagesPath": "C:\\Users\\thehe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thehe\\OneDrive\\Área de Trabalho\\Pokécheck\\Pokécheck\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\mateu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thehe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "uap10.0.17763"

@@ -72,5 +72,15 @@ namespace Pokécheck
         {
 
         }
+
+        private void pokemonsGridView_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void TextBox_TextChanged_1(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }

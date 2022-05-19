@@ -70,6 +70,7 @@
       <RootProperty Name="UseLayoutRounding" />
       <RootProperty Name="FontSize" />
       <RootProperty Name="RenderTransform" />
+      <RootEvent Name="TextChanged" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
       <RootProperty Name="HorizontalAlignment" />

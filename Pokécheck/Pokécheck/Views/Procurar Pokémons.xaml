@@ -9,51 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid Background="#FF290853">
-        <Grid x:Name="pokemonsGrid" HorizontalAlignment="Center" Height="623" VerticalAlignment="Top" Width="1222" Background="#FF580C83" Margin="0,305,0,0" CornerRadius="8"/>
-        <GridView x:Name="pokemonsGridView" HorizontalAlignment="Left"  Margin="139,444,0,0" RenderTransformOrigin="0.5,0.5" Width="1219" Height="484" VerticalAlignment="Top" ItemsSource="{Binding PokemonCollection, Mode=TwoWay}" IsItemClickEnabled="False" SelectionChanged="pokemonsGridView_SelectionChanged">
-            <GridView.ItemTemplate>
-                <DataTemplate>
-                    <Grid>
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="190"/>
-                        </Grid.ColumnDefinitions>
-                        <Grid.RowDefinitions>
-                            <RowDefinition Height="10"/>
-                            <RowDefinition Height="auto"/>
-                            <RowDefinition Height="auto"/>
-                            <RowDefinition Height="auto"/>
-                            <RowDefinition Height="auto"/>
-                        </Grid.RowDefinitions>
-
-                        <Button Grid.Row="1" Click="PokemonInformationButtonEvent" CommandParameter="{Binding ID}" CornerRadius="8" Background="Transparent" MinHeight="175" MinWidth="175">
-                            <Button.Content>
-                                <Image Source="{Binding ImageFilePath}"  Grid.Row="1"/>
-                            </Button.Content>
-                        </Button>
-                        <TextBlock Text="ID:" Margin="75,0,0,0" Grid.Row="2"/>
-                        <TextBlock x:Name="TextBlockID" Text="{Binding ID}" Margin="105,0,0,0" Grid.Row="2"/>
-                        <TextBlock Text="{Binding Name}" HorizontalAlignment="Center" Grid.Row="3"/>
-
-                        <GridView  Grid.Row="4" ItemsSource="{Binding StringTypes}"  HorizontalAlignment="Center" IsHitTestVisible="False">
-                            <GridView.ItemTemplate>
-                                <DataTemplate>
-                                    <Grid>
-                                        <Grid.ColumnDefinitions>
-                                            <ColumnDefinition Width="auto"/>
-                                        </Grid.ColumnDefinitions>
-                                        <Grid.RowDefinitions>
-                                            <RowDefinition Height="auto"/>
-                                        </Grid.RowDefinitions>
-                                        <TextBlock Text="{Binding Name}" HorizontalAlignment="Center" Grid.Row="0" />
-                                    </Grid>
-                                </DataTemplate>
-                            </GridView.ItemTemplate>
-                        </GridView>
-
-                    </Grid>
-                </DataTemplate>
-            </GridView.ItemTemplate>
-        </GridView>
         <Rectangle HorizontalAlignment="Center" Height="127" VerticalAlignment="Center" Width="666" RadiusX="8" RadiusY="8" RenderTransformOrigin="0.5,0.5" StrokeThickness="8" FocusVisualPrimaryBrush="White" Margin="0,0,0,620">
             <Rectangle.Stroke>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
@@ -80,7 +35,7 @@
             <ComboBoxItem Content="Pesquisa por ID "/>
             <ComboBoxItem Content="Seus Pokémons"/>
         </ComboBox>
-        <TextBox TextWrapping="Wrap" PlaceholderText="Pesquisar..." RenderTransformOrigin="0.683,0.333" BorderBrush="#66000000" CornerRadius="8 " FocusVisualSecondaryBrush="#998564E2" UseLayoutRounding="False" d:LayoutRounding="Auto" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Width="363" Margin="0,0,58,300">
+        <TextBox TextWrapping="Wrap" PlaceholderText="Pesquisar..." RenderTransformOrigin="0.683,0.333" BorderBrush="#66000000" CornerRadius="8 " FocusVisualSecondaryBrush="#998564E2" UseLayoutRounding="False" d:LayoutRounding="Auto" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Width="363" Margin="0,0,58,300" TextChanged="TextBox_TextChanged_1">
             <TextBox.RenderTransform>
                 <CompositeTransform SkewX="-3.576" TranslateX="1.251"/>
             </TextBox.RenderTransform>

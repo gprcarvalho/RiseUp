@@ -67,22 +67,22 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Image Source="Assets/logo.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Height="192" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,42,-67,0">
+        <Image Source="/Assets/logo.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Height="192" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,42,-67,0">
             <Image.RenderTransform>
                 <CompositeTransform Rotation="-1.004"/>
             </Image.RenderTransform>
         </Image>
-        <Image Source="Assets/018.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" HorizontalAlignment="Center" VerticalAlignment="Center" Width="330" Height="314" Margin="900,0,0,0" >
+        <Image Source="/Assets/018.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" HorizontalAlignment="Center" VerticalAlignment="Center" Width="330" Height="314" Margin="900,0,0,0" >
             <Image.RenderTransform>
                 <CompositeTransform Rotation="8.693"/>
             </Image.RenderTransform>
         </Image>
-        <Image Source="Assets/025.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" HorizontalAlignment="Center" VerticalAlignment="Center" Width="330" Height="314" Margin="0,0,900,0" >
+        <Image Source="/Assets/025.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" HorizontalAlignment="Center" VerticalAlignment="Center" Width="330" Height="314" Margin="0,0,900,0" >
             <Image.RenderTransform>
                 <CompositeTransform Rotation="-11.327"/>
             </Image.RenderTransform>
         </Image>
-        <Image Source="Assets/pokeball.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" HorizontalAlignment="Center" VerticalAlignment="Center" Height="113" Width="94" Opacity="0.905" Margin="0,70,433,0" >
+        <Image Source="/Assets/pokeball.png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" HorizontalAlignment="Center" VerticalAlignment="Center" Height="113" Width="94" Opacity="0.905" Margin="0,70,433,0" >
             <Image.RenderTransform>
                 <CompositeTransform Rotation="-8.412"/>
             </Image.RenderTransform>

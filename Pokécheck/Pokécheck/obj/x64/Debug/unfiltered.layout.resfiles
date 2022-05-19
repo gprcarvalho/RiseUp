@@ -14,9 +14,9 @@ Assets\Square44x44Logo.targetsize-24_altform-unplated.png
 Assets\StoreLogo.png
 Assets\Wide310x150Logo.scale-200.png
 App.xbf
-Cadastrar Pokémons.xbf
-Informações.xbf
-MainPage.xbf
 Pokécheck.xr.xml
-Procurar Pokémons.xbf
+Views\Cadastrar Pokémons.xbf
+Views\Informações.xbf
+Views\MainPage.xbf
+Views\Procurar Pokémons.xbf
 Properties\Default.rd.xml
