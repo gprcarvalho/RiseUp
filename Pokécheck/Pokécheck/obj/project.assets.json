@@ -8267,11 +8267,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thehe\\OneDrive\\Área de Trabalho\\Pokécheck\\Pokécheck\\Pokécheck.csproj",
+      "projectUniqueName": "C:\\Users\\thehe\\OneDrive\\Documentos\\GitHub\\RiseUp\\Pokécheck\\Pokécheck\\Pokécheck.csproj",
       "projectName": "Pokécheck",
-      "projectPath": "C:\\Users\\thehe\\OneDrive\\Área de Trabalho\\Pokécheck\\Pokécheck\\Pokécheck.csproj",
+      "projectPath": "C:\\Users\\thehe\\OneDrive\\Documentos\\GitHub\\RiseUp\\Pokécheck\\Pokécheck\\Pokécheck.csproj",
       "packagesPath": "C:\\Users\\thehe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thehe\\OneDrive\\Área de Trabalho\\Pokécheck\\Pokécheck\\obj\\",
+      "outputPath": "C:\\Users\\thehe\\OneDrive\\Documentos\\GitHub\\RiseUp\\Pokécheck\\Pokécheck\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

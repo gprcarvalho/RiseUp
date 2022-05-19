@@ -119,9 +119,9 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Views\Cadastrar Pokémons.xaml.cs" />
+    <Compile Include="Views\CadastrarPokemon.xaml.cs" />
     <Compile Include="ControllerAPI\PokeCheckAPI.cs" />
-    <Compile Include="Views\Informações.xaml.cs" />
+    <Compile Include="Views\Informacoes.xaml.cs" />
     <Compile Include="Views\MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
@@ -132,8 +132,8 @@
     <Compile Include="Model\ResultList.cs" />
     <Compile Include="Model\Type.cs" />
     <Compile Include="Model\Types.cs" />
-    <Compile Include="Views\Procurar Pokémons.xaml.cs">
-      <DependentUpon>Procurar Pokémons.xaml</DependentUpon>
+    <Compile Include="Views\ProcurarPokemon.xaml.cs">
+      <DependentUpon>ProcurarPokemon.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -164,11 +164,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="Views\Cadastrar Pokémons.xaml">
+    <Page Include="Views\CadastrarPokemon.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="Views\Informações.xaml">
+    <Page Include="Views\Informacoes.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -176,7 +176,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="Views\Procurar Pokémons.xaml">
+    <Page Include="Views\ProcurarPokemon.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

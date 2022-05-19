@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xTR8hz+lZSwz3V2kdkfszxloY5ZCp92vnz0JU5eHl0DonBpww7sWleeogusfqt37YHCjwJqD7I50jjSoTaysZQ==",
+  "dgSpecHash": "KwxauIp5lpdw+bePBxBBF3IBdrD6lWQQUGjEwyzvsPSlPFNAIg5DUx+jPFrJq6RsfDILXRCoCjOD/jMCAQLdeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thehe\\OneDrive\\Área de Trabalho\\Pokécheck\\Pokécheck\\Pokécheck.csproj",
+  "projectFilePath": "C:\\Users\\thehe\\OneDrive\\Documentos\\GitHub\\RiseUp\\Pokécheck\\Pokécheck\\Pokécheck.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.10-rel-29722-00\\microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.12\\microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",

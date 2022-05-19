@@ -15,8 +15,8 @@ Assets\StoreLogo.png
 Assets\Wide310x150Logo.scale-200.png
 App.xbf
 Pokécheck.xr.xml
-Views\Cadastrar Pokémons.xbf
-Views\Informações.xbf
+Views\CadastrarPokemon.xbf
+Views\Informacoes.xbf
 Views\MainPage.xbf
-Views\Procurar Pokémons.xbf
+Views\ProcurarPokemon.xbf
 Properties\Default.rd.xml

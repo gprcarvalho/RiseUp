@@ -149,8 +149,6 @@ C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\MultipleQual
 C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\ProjectArchitectures.txt
 C:\Users\Gabi\Desktop\workspace\Pokécheck\Pokécheck\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424923200000000.json
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\App.xbf
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\MainPage.xbf
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Procurar Pokémons.xbf
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Pokécheck.xr.xml
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Pokécheck.exe
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Pokécheck.pdb
@@ -164,17 +162,9 @@ C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\D
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.csproj.AssemblyReference.cache
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\App.g.i.cs
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\App.g.cs
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\MainPage.g.i.cs
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\MainPage.g.cs
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.g.i.cs
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.g.cs
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\XamlTypeInfo.g.cs
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\App.xaml
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\MainPage.xaml
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.xaml
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\App.xbf
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\MainPage.xbf
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Procurar Pokémons.xbf
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\XamlSaveStateFile.xml
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.csproj.CoreCompileInputs.cache
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.csproj.CopyComplete
@@ -198,16 +188,6 @@ C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\D
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\ProjectArchitectures.txt
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424923200000000.json
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Cadastrar Pokémons.xbf
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Informações.xbf
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Cadastrar Pokémons.g.i.cs
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Cadastrar Pokémons.g.cs
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Informações.g.i.cs
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Informações.g.cs
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Cadastrar Pokémons.xaml
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Informações.xaml
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Cadastrar Pokémons.xbf
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Informações.xbf
 C:\Users\mateu\OneDrive\Área de Trabalho\workspace\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\App.xbf
 C:\Users\mateu\OneDrive\Área de Trabalho\workspace\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Cadastrar Pokémons.xbf
 C:\Users\mateu\OneDrive\Área de Trabalho\workspace\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Informações.xbf
@@ -268,22 +248,10 @@ C:\Users\mateu\OneDrive\Área de Trabalho\workspace\RiseUp\Pokécheck\Pokécheck
 C:\Users\mateu\OneDrive\Área de Trabalho\workspace\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\mateu\OneDrive\Área de Trabalho\workspace\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\ProjectArchitectures.txt
 C:\Users\mateu\OneDrive\Área de Trabalho\workspace\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424923200000000.json
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\Cadastrar Pokémons.g.i.cs
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\Cadastrar Pokémons.g.cs
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\Informações.g.i.cs
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\Informações.g.cs
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\MainPage.g.i.cs
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\MainPage.g.cs
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\Procurar Pokémons.g.i.cs
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\Procurar Pokémons.g.cs
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\Cadastrar Pokémons.xaml
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\Informações.xaml
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\MainPage.xaml
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\Procurar Pokémons.xaml
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\Cadastrar Pokémons.xbf
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\Informações.xbf
 C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\MainPage.xbf
-C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\Procurar Pokémons.xbf
 C:\Users\thehe\OneDrive\Área de Trabalho\Pokécheck\Pokécheck\obj\x64\Debug\Pokécheck.csproj.AssemblyReference.cache
 C:\Users\thehe\OneDrive\Área de Trabalho\Pokécheck\Pokécheck\obj\x64\Debug\App.g.i.cs
 C:\Users\thehe\OneDrive\Área de Trabalho\Pokécheck\Pokécheck\obj\x64\Debug\App.g.cs
@@ -345,3 +313,20 @@ C:\Users\thehe\OneDrive\Área de Trabalho\Pokécheck\Pokécheck\obj\x64\Debug\qu
 C:\Users\thehe\OneDrive\Área de Trabalho\Pokécheck\Pokécheck\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\thehe\OneDrive\Área de Trabalho\Pokécheck\Pokécheck\obj\x64\Debug\ProjectArchitectures.txt
 C:\Users\thehe\OneDrive\Área de Trabalho\Pokécheck\Pokécheck\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424923200000000.json
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Views\MainPage.xbf
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Views\CadastrarPokemon.xbf
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Views\Informacoes.xbf
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\bin\x64\Debug\Views\ProcurarPokemon.xbf
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\CadastrarPokemon.g.i.cs
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\CadastrarPokemon.g.cs
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\Informacoes.g.i.cs
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\Informacoes.g.cs
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\ProcurarPokemon.g.i.cs
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\ProcurarPokemon.g.cs
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\CadastrarPokemon.xaml
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\Informacoes.xaml
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\ProcurarPokemon.xaml
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\CadastrarPokemon.xbf
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\Informacoes.xbf
+C:\Users\thehe\OneDrive\Documentos\GitHub\RiseUp\Pokécheck\Pokécheck\obj\x64\Debug\Views\ProcurarPokemon.xbf
