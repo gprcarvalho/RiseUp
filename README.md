@@ -78,7 +78,7 @@ Gustavo César
 
 **Inicialização**▶
 
-Para rodar o nosso projeto o usuário deve priorizar o Visual Studio e instalar as extenções abaixo:
+Para rodar o nosso projeto o usuário deve priorizar o Visual Studio e instalar as extensões abaixo:
 
 - Microsoft.Data.Sqlite
 - Microsoft.NETCore.UniversalWindowsPlatform
