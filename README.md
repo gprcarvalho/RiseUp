@@ -10,11 +10,11 @@
 
 Neste projeto, iremos trabalhar juntamente com a empresa SiDi que irá nos acompanhar durante todo o processo.
 
-A empresa lançará os desafios e nós teremos que desenvolver soluções para os mesmos.
+Esse projeto tem por objetivo a criação de uma aplicação visual para fazer a listagem de Pokémons, com a exibição de suas características. E os dados serão coletados através da API pública PokéAPI(https://pokeapi.co/).
 
 
 
-:busts_in_silhouette: **Squad**
+:busts_in_silhouette: **Squad**:
 
 Guilherme Régis https://github.com/gprcarvalho
 
@@ -34,3 +34,55 @@ Gustavo César
 
 
 
+**Requisitos do projeto**🚧
+
+- Fazer uso de persistência de dados
+
+- Utilizar o padrão MVVM (Model-View-ViewModel)
+
+- Implementar Lazy Loading
+
+- Implementar busca por nome do Pokémon
+
+- Implementar busca por número do Pokémon
+
+- Implementar busca por tipo/elemento do Pokémon
+
+- Implementar paginação
+
+- Implementar cadastro de novos Pokémons
+
+  
+
+**Tecnologias utilizadas**👨‍💻
+
+- Visual Studio
+
+- GitHub
+
+- Git
+
+- .Net
+
+- C#
+
+- DB Browser for SQLite
+
+- Postman
+
+- UWP
+
+- PokeAPI
+
+  
+
+**Inicialização**▶
+
+Para rodar o nosso projeto o usuário deve priorizar o Visual Studio e instalar as extenções abaixo:
+
+- Microsoft.Data.Sqlite
+- Microsoft.NETCore.UniversalWindowsPlatform
+- Microsoft.Toolkit
+- Microsoft.Toolkit.Mvvm
+- Microsoft.Toolkit.Uwp.UI.Controls.DataGrid
+- Microsoft.Json
